@@ -11,7 +11,7 @@ error_reporting(0);
 <title>	Online Temple Management System | | Thank You</title>
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
 <link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
-<!--  HELLO
+<!--  HELLO -->
 <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
 <link href='http://fonts.googleapis.com/css?family=Lora:400,700' rel='stylesheet' type='text/css'>
 <link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
