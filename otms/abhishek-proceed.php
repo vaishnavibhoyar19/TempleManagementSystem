@@ -19,7 +19,6 @@ error_reporting(0);
 </head>
 <body>
 <?php include_once('includes/header.php');?>
-	<!-- study -->
 	<div class="study">
 		<div class="container">
 			<h2>“Thank you for applying for Abhishek. Your Booking no is <?php echo $_SESSION['bookingnum'];?>”</h2>	
